@@ -52,8 +52,9 @@ Projetos desenvolvidos com apostilas técnicas
 ## 📈 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luistorres109&layout=compact&theme=radical)  
 
-## 📫 Contato
+## 🤝 Vamos nos conectar
 
+Se você procura alguém com energia, ética, vontade de aprender e construir soluções reais, me chama pra conversar! 👇  
 - 📧 **Email:** luistorres10@unochapeco.edu.br
 - 💼 **LinkedIn:** [linkedin.com/in/luistorres109](https://www.linkedin.com/in/luistorres109)
 - 📸 **Instagram:** [instagram.com/luissmiguel/](https://www.instagram.com/luissmiguel/)
@@ -63,10 +64,5 @@ Projetos desenvolvidos com apostilas técnicas
   <a href="https://www.linkedin.com/in/luis-miguel-torres-programador/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href = "mailto:luistorres10@unochapeco.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-## 🤝 Vamos nos conectar
-
-Se você procura alguém com energia, ética, vontade de aprender e construir soluções reais, me chama pra conversar! 👇  
-📧 **luistorres10@unochapeco.edu.br**
 
 ![Snake animation](https://github.com/luistorres109/luistorres109/blob/output/github-contribution-grid-snake.svg)
