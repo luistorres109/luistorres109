@@ -1,13 +1,16 @@
-# 👋 Olá, eu sou o Luís Miguel Torres R.
+# 👨‍💻 Luís Miguel Torres Recalcatti
 
-🎓 Graduado em Sistemas de Informação pela Unochapecó  
-💻 Desenvolvedor Full Stack Júnior com foco em Python, C# e React Native  
-🌎 Apaixonado por tecnologia, aprendizado contínuo e colaboração em equipe
+📍 Chapecó - SC, Brasil   
+🎓 Graduado em Sistemas de Informação pela Unochapecó   
+💻 Desenvolvedor Full Stack Júnior com foco em Python, C# e React Native   
+🌎 Apaixonado por tecnologia, aprendizado contínuo e colaboração em equipe   
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-miguel-torres-programador/) | [GitHub](https://github.com/luistorres109)
 
-<div align="center">
-  <a href="https://github.com/luistorres109">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luistorres109&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🚀 Sobre
+
+Sou desenvolvedor Full Stack Júnior com experiência prática em Python/Django, Web-Scraping, C#, React Native, ASP.NET MVC e SwiftUI. Já participei de projetos aplicados em estágio e programas de formação técnica, desenvolvendo soluções reais com impacto social e organizacional.
+
+Busco oportunidades em times que valorizem boas práticas, aprendizado contínuo e colaboração.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -34,10 +37,20 @@
 
 ## 🚀 Projetos Destacados
 
-- **[InTECHtual](https://github.com/luistorres109/inTECHtual)** – Aplicativo mobile para divulgação de eventos acadêmicos, desenvolvido com SwiftUI
-- **[Projetos Front-End](https://github.com/luistorres109/repositorios_frontend)** – Repositórios Front-End em HTML-CSS
-- **ANES** – Sistema de análise de compras públicas utilizando Django e Selenium
-- **Projetos em [GeneXus 9.0](https://github.com/luistorres109/genexus_apostila) e [C#](https://github.com/luistorres109/csharp_apostila)** - Projetos desenvolvidos com apostilas técnicas
+### 🔍 **ANES**
+Sistema de *scraping* e análise de licitações públicas. Desenvolvido com **Django** + **Selenium**.
+
+### 📱 **[InTECHtual](https://github.com/luistorres109/inTECHtual)**
+Aplicativo mobile para divulgação de eventos acadêmicos, desenvolvido com SwiftUI
+
+### 💻 **[Projetos Front-End](https://github.com/luistorres109/repositorios_frontend)**
+Repositórios Front-End em HTML-CSS
+
+### 🛠️ **Projetos em [GeneXus 9.0](https://github.com/luistorres109/genexus_apostila) e [C#](https://github.com/luistorres109/csharp_apostila)**
+Projetos desenvolvidos com apostilas técnicas
+
+## 📈 Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luistorres109&layout=compact&theme=radical)  
 
 ## 📫 Contato
 
@@ -50,5 +63,10 @@
   <a href="https://www.linkedin.com/in/luis-miguel-torres-programador/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href = "mailto:luistorres10@unochapeco.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+## 🤝 Vamos nos conectar
+
+Se você procura alguém com energia, ética, vontade de aprender e construir soluções reais, me chama pra conversar! 👇  
+📧 **luistorres10@unochapeco.edu.br**
 
 ![Snake animation](https://github.com/luistorres109/luistorres109/blob/output/github-contribution-grid-snake.svg)
