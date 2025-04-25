@@ -4,6 +4,12 @@
 💻 Desenvolvedor Full Stack Júnior com foco em Python, C# e React Native  
 🌎 Apaixonado por tecnologia, aprendizado contínuo e colaboração em equipe
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luistorres109&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luistorres109&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** Python, C#, HTML-CSS-JavaScript
@@ -22,3 +28,6 @@
 
 - 📧 **Email:** luistorres10@unochapeco.edu.br
 - 💼 **LinkedIn:** [linkedin.com/in/luistorres109](https://www.linkedin.com/in/luistorres109)
+- 📸 **Instagram:** [instagram.com/luissmiguel/](https://www.instagram.com/luissmiguel/)
+
+![Snake animation](https://github.com/luistorres109/luistorres109/blob/output/github-contribution-grid-snake.svg)
