@@ -11,9 +11,9 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python, C#, HTML-CSS-JavaScript
-- **Frameworks:** Django, ASP.NET MVC, React Native
-- **Ferramentas:** Git, Selenium, Figma, VS Code
+- **Linguagens:** Python, C#, HTML-CSS-JavaScript, Swift
+- **Frameworks:** Django, ASP.NET MVC, React Native, SwiftUI
+- **Ferramentas:** Git, Selenium, Figma, VS Code, XCode, Node-RED
 - **Banco de Dados:** MySQL
 
 <div align="center">
@@ -27,7 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px" height="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px" height="60px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px" height="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg" width="60px" height="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="60px" height="60px"/>
 </div>
 
 ## 🚀 Projetos Destacados
